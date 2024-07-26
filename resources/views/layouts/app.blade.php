@@ -146,7 +146,7 @@
     <!-- all plugins -->
     <script src="js/custom.js"></script>
     <!-- map -->
-   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCNUPWkb4Cjd7Wxo-T4uoUldFjoiUA1fJc&callback=myMap"></script>
+   <script src="https://maps.googleapis.com/maps/api/js?key=&callback=myMap"></script>
 <script>
    function check_active(d){
       document.getElementById(d).addAttribute('class','active');
